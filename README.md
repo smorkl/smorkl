@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Sebastian Meneses Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Clever+Edu+Perea..&hearts;++;Self-taught+Holberton+Students,;Software+Engineering+Student,;Active+Student,;Passionate+about+learning..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sebastian+Meneses+Salazar..&hearts;++;Self-taught+Holberton+Students,;Software+Engineering+Student,;Active+Student,;Passionate+about+learning..<3"></a>
 </p>
 
 
@@ -82,8 +82,6 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 </p>
 
 
